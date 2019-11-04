@@ -12,13 +12,16 @@ The next steps are to learn how to write an API to push this data up to a websit
 This API could also therefore be utilised by others allowing them to submit their own readings if they have similar monitors. 
 
 
-The prototype monitor setup and functioning 
+**The prototype monitor setup and functioning**
+
 ![prototype](monitor.jpg)
 
-a screenshot of the monitor spitting out the raw data 
+**a screenshot of the monitor spitting out the raw data** 
+
 ![screen-shot](screen-shot.jpg)
 
-screenshot of the coverted data being fed to adafruit
+**screenshot of the converted data being fed to Adafruit**
+
 ![adafruit](adafruit.PNG)
 
 
@@ -35,7 +38,15 @@ screenshot of the coverted data being fed to adafruit
 
 ## checklist for making a demo version available
 - [X] built initial monitor
-- [ ] create or adapt python script to get readings from the monitor 
-- [ ] create an API to place the readings from the monitor into JASON format
+- [X] create or adapt python script to get readings from the monitor 
+- [ ] create an API to place the readings from the monitor into JSON format
 - [ ] host the information on a website that can be viewed
+- [ ] create a way to input location either manually or automatically when taking readings
 - [ ] connect to Kings College air quality API to retrieve data for comparison
+- [ ] add screen to make device more portable so it can be controlled in an outside environment away from a screen 
+
+
+## Learning Points
+* understanding elements of hardware integration
+* creation of APIs
+* transitioning between multiple programming languages 
