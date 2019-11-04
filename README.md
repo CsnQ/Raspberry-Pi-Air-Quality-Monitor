@@ -31,10 +31,10 @@ This API could also therefore be utilised by others allowing them to submit thei
 * Nova PM Sensor SDS011 High Precision PM2.5 Air Quality Detection Sensor Module 
 
 ## Optional Hardware
-* Mobile phone with 4G for tethering (So I can upload readings on the go)
+* Mobile phone with 4G for tethering (upload readings on the go)
 
 ## Hardware I may optionally use later
-* LCD touch screen for raspberry pi
+* LCD touch screen for raspberry pi for portability 
 
 ## checklist for making a demo version available
 - [X] built initial monitor
